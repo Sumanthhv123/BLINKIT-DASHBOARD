@@ -45,4 +45,6 @@ The goal of this dashboard is to:
    ```bash
    git clone https://github.com/yourusername/blinkit-dashboard.git
 
-## Demo Of Dashboard- Example: ![Dashboard Preview].(https://github.com/Sumanthhv123/BLINKIT-DASHBOARD/blob/main/SNAPSHOT%20OF%20BLINKIT%20DASHBOARD.png).
+## Demo Of Dashboard
+show what the dashboard looklike.- ![Alt_text].(https://github.com/username/repo/assets/image.png).
+Example: ![Dashboard Preview].(https://github.com/Sumanthhv123/BLINKIT-DASHBOARD/blob/main/SNAPSHOT%20OF%20BLINKIT%20DASHBOARD.png).
