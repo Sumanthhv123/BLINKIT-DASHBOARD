@@ -1,7 +1,5 @@
 # 🛒 BLINKIT Dashboard – Power BI Project
 
-https://github.com/Sumanthhv123/BLINKIT-DASHBOARD/blob/main/SNAPSHOT%20OF%20BLINKIT%20DASHBOARD.png
-
 This repository contains an interactive **Power BI dashboard** for Blinkit (formerly Grofers), an Indian instant delivery service. The dashboard provides detailed insights into business performance, customer behavior, and sales analytics to support data-driven decision-making.
 
 ---
@@ -46,3 +44,5 @@ The goal of this dashboard is to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/blinkit-dashboard.git
+
+## Demo Of Dashboard- Example: ![Dashboard Preview].(https://github.com/Sumanthhv123/BLINKIT-DASHBOARD/blob/main/SNAPSHOT%20OF%20BLINKIT%20DASHBOARD.png).
